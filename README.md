@@ -1,6 +1,6 @@
 # Locadora do Paulin - App CRUD 🎬
 
-Este é um aplicativo de gerenciamento de uma locadora de filmes desenvolvido usando Ionic 4. O app permite realizar operações básicas de CRUD (Criar, Ler e Deletar) para gerenciar filmes na locadora.
+Este é um aplicativo de gerenciamento de uma locadora de filmes desenvolvido usando Ionic 3. O app permite realizar operações básicas de CRUD (Criar, Ler e Deletar) para gerenciar filmes na locadora.
 
 ## 🚀 Funcionalidades
 
@@ -9,6 +9,12 @@ Este é um aplicativo de gerenciamento de uma locadora de filmes desenvolvido us
 - **Excluir Filmes** 🗑️
 - **Exibir Informações dos Filmes** ⚙️
 - **Exivir status do Filme de Disponivel/Alugado** 🎥
+
+## Demonstração🎥
+
+Confira a apresentação em vídeo do aplicativo no YouTube para ver como ele funciona:
+
+**Link do video:**(https://youtu.be/PIp13Iy3VhA)
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -92,7 +98,7 @@ O aplicativo será iniciado e estará disponível em http://localhost:8100. O Io
 ## 📇 Informações de Contato
 
 - **Nome:** Paulo Victor Bezerra Brito
-- **E-mail:** [paulovictorbezerrabrito23@gmail.com](mailto:paulovictorbezerrabrito23@gmail.com)
+- **Nome** Willamys Carneiro
 - **GitHub:** [Perfil do GitHub](https://github.com/PauloVictorCT3604)
 
 ---
