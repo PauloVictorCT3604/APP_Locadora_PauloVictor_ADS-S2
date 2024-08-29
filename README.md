@@ -8,7 +8,7 @@ Este é um aplicativo de gerenciamento de uma locadora de filmes desenvolvido us
 - **Listar Filmes** 📜
 - **Excluir Filmes** 🗑️
 - **Exibir Informações dos Filmes** ⚙️
-- **Status do Filme de Disponivel/Alugado** 🎥
+- **Exivir status do Filme de Disponivel/Alugado** 🎥
 
 ## 🛠️ Tecnologias Utilizadas
 
