@@ -98,7 +98,7 @@ O aplicativo será iniciado e estará disponível em http://localhost:8100. O Io
 ## 📇 Informações de Contato
 
 - **Nome:** Paulo Victor Bezerra Brito
-- **Nome** Willamys Carneiro
+- **Nome:** Willamys Carneiro
 - **GitHub:** [Perfil do GitHub](https://github.com/PauloVictorCT3604)
 
 ---
